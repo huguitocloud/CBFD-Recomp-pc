@@ -177,10 +177,11 @@ files work on every system). Their source is in `mods/`.
 - the host application in `host/`;
 - debugging tools.
 
-## AI assistance
+## AI assistance (Holy moly are you serious??????????)
 
 This project was made with heavy use of an AI coding assistant (Claude, through
-Claude Code). That covers the recompilation setup, the patches to the tools, the
+Claude Code, maybe Chatgpt, maybe a fruitfly programming here....).
+That covers the recompilation setup, the patches to the tools, the
 host application, the mods, and the functions decompiled to C in this repository.
 
 What's checked, and how:
@@ -207,19 +208,9 @@ Bug reports, fixes and patches are welcome: see [CONTRIBUTING.md](CONTRIBUTING.m
 
 ## Credits
 
-- The [Conker's Bad Fur Day decompilation](https://github.com/mkst/conker) project,
-  whose work this is built on.
-- The macOS port, and support for ROM hacks, by
-  [nitrostemp](https://github.com/nitrostemp).
-- [N64Recomp](https://github.com/N64Recomp/N64Recomp),
-  [N64ModernRuntime](https://github.com/N64Recomp/N64ModernRuntime) and
-  [RecompFrontend](https://github.com/N64Recomp/RecompFrontend) by Wiseguy and
-  contributors.
-- [RT64](https://github.com/rt64/rt64) by Darío and contributors.
-- The mod headers follow the
-  [Banjo: Recompiled mod template](https://github.com/BanjoRecomp/BKRecompModTemplate).
-- Fonts: [Inter](https://rsms.me/inter/), [Noto Emoji](https://fonts.google.com/noto/specimen/Noto+Emoji)
-  and [promptfont](https://shinmera.github.io/promptfont/).
+- All conker recomp team
+- Huguito (me) in this fork. Trying to understand what the hell is going on
+  in this insane recomp.
 
 ## License
 
